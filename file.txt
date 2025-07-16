@@ -1,2 +1,0 @@
-now i know the use of git log --stat to check file that was commited
-This is file.txt for GitHub test
